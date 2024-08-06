@@ -1,6 +1,6 @@
 # GitHub Java Sınıf Analiz Programı
 
-Bu proje, kullanıcıdan verilen GitHub depo bağlantısını kullanarak bir Java projesini klonlar ve içerisindeki `.java` uzantılı dosyaları analiz eder. Analiz sonuçları, her bir Java sınıfı için aşağıdaki metrikleri içerir:
+Kullanıcıdan verilen GitHub depo bağlantısını kullanarak bir Java projesini klonlar ve içerisindeki `.java` uzantılı dosyaları analiz eder. Analiz sonuçları, her bir Java sınıfı için aşağıdaki metrikleri içerir:
 
 - Javadoc yorum satır sayısı
 - Diğer yorum satır sayısı
